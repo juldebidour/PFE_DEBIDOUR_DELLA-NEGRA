@@ -1,0 +1,9 @@
+Questionnaire démographique (papier ou questionnaire google?)
+
+Âge :
+Niveau d’études (plus haut diplôme obtenu) :
+Genre :
+Entité de rattachement (+ étudiant ou personnel) :
+Nationalité :
+Niveau d’expertise sur Galèrapagos : échelle de 1 à 5
+Habitude de jouer à des jeux de société : au moins 1 fois par semaine / mois / an / jamais
